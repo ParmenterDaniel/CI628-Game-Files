@@ -1,6 +1,9 @@
 # CI628 Game Files
  Game files for CI628 project
 
+NOTE ON ASSETS:
+
+Once client has been built, copy the assets folder from 'src' into 'build'
 
 Controls:
 
